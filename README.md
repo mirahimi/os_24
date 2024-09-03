@@ -6,8 +6,8 @@
 
 #### Image:
 
-<img src="https://imgur.com/a/some-guy-s1MeE3z" width="200">
+<img src="Sly pic.jpg" width="200">
 
 #### Avatar:
 
-<img src="https://imgur.com/a/some-guy-s1MeE3z" width="75">
+<img src="Sly pic.jpg" width="75">
